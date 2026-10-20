@@ -160,5 +160,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 发送邮件至：<EMAIL:hash:587e1a2bcb>
 
 ---
-
-**Made with ❤️ by Your Name**
