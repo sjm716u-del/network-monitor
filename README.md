@@ -4,11 +4,11 @@
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
 
-🌐 一款功能强大的实时网络监控工具，提供直观的图形化界面，让您随时了解网络使用情况和各程序的网络流量。
+ 一款功能强大的实时网络监控工具，提供直观的图形化界面，让您随时了解网络使用情况和各程序的网络流量。
 
 A powerful real-time network monitoring tool with an intuitive graphical interface, allowing you to monitor network usage and program traffic at any time.
 
-![Network Monitor Screenshot](screenshot.png)
+![网络监测器主界面](screenshot.png)
 
 ## ✨ 功能特性 / Features
 
@@ -17,12 +17,18 @@ A powerful real-time network monitoring tool with an intuitive graphical interfa
 - 🖥️ **程序流量统计** - 显示各程序的网络占用情况
 - 🎨 **现代化界面** - 深色主题，美观护眼
 - 🔄 **一键刷新** - 清空历史数据，重置统计
-- 📦 **独立运行** - 打包为 exe，无需 Python 环境
+-  **独立运行** - 打包为 exe，无需 Python 环境
 - 🚀 **轻量级** - 低资源占用，高效运行
 
-## 📸 截图 / Screenshots
+##  截图 / Screenshots
 
-（请替换为实际截图）
+### 主界面
+
+![网络监测器主界面](screenshot.png)
+
+### 运行效果
+
+![网络监测器运行效果](screenshot2.png)
 
 ## 🚀 快速开始 / Quick Start
 
@@ -81,7 +87,7 @@ python net_monitor.py
 - `Ctrl+R`：刷新图表
 - `Ctrl+Q`：退出程序
 
-## 🛠️ 技术栈 / Tech Stack
+## ️ 技术栈 / Tech Stack
 
 - **Python 3.12** - 主要开发语言
 - **Tkinter** - GUI 框架
@@ -94,7 +100,7 @@ python net_monitor.py
 ```
 network-monitor/
 ├── net_monitor.py          # 主程序源代码
-├── requirements.txt        # Python 依赖
+── requirements.txt        # Python 依赖
 ├── install.bat            # Windows 安装脚本
 ├── uninstall.bat          # Windows 卸载脚本
 ├── README.md              # 项目说明（本文件）
@@ -151,7 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 如有问题或建议，请通过以下方式联系：
 
 - 开启 GitHub Issue
-- 发送邮件至：your-email@example.com
+- 发送邮件至：<EMAIL:hash:587e1a2bcb>
 
 ---
 
