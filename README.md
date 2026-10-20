@@ -157,6 +157,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 如有问题或建议，请通过以下方式联系：
 
 - 开启 GitHub Issue
-- 发送邮件至：<EMAIL:hash:587e1a2bcb>
+- 发送邮件至：sjm716u@gmail.com
 
 ---
